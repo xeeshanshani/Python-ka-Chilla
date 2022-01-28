@@ -10,5 +10,5 @@
 
 [CrowdANALYTIX Community](https://www.crowdanalytix.com/community)
 
-[Data scientist Rod map](https://omdena.com/blog/data-science-road-map/)
+[Data scientist Rod map](https://omdena.com/blog/data-science-road-map/) 
 >>>>>>> 129aaa32168170545c9f496548a119733a138b24
