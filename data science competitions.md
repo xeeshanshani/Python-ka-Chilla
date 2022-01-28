@@ -11,3 +11,6 @@
 [CrowdANALYTIX Community](https://www.crowdanalytix.com/community)
 
 [Bitgrit](https://bitgrit.net/competition/)
+
+[Data scientist Rod map](https://omdena.com/blog/data-science-road-map/)
+
